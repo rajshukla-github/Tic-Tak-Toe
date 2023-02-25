@@ -1,2 +1,2 @@
 # tic-tak-toe
-It a game website
+It is a gaming website
