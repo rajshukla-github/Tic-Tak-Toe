@@ -25,9 +25,3 @@ Paste $ git clone <HTTPS URL>
 ```    
 
 
-
-second update is pushed
-third update is pushed
-thasfasdf
-asfasf
-
