@@ -26,7 +26,6 @@ Paste $ git clone <HTTPS URL>
 
 
 
-the readme file is updted.
 second update is pushed
 third update is pushed
 thasfasdf
