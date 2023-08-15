@@ -24,5 +24,3 @@ Step 3:
 Paste $ git clone <HTTPS URL>
 ```    
 
-
-update
